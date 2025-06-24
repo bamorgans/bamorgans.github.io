@@ -3,7 +3,18 @@
   "name": "Lead Engineer Portfolio",
   "icons": [
     {
-      "src": "favicon-16x16.ico",
+      "src": "apple-touch-icon.png",
+      "sizes": "16x16",
+      "type": "apple-touch-icon"
+    },
+    {
+      "src": "/assets/profile.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple touch icon"
+    },
+    {
+      "src": "favicon-16.ico",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
@@ -12,11 +23,12 @@
       "sizes": "24x24",
       "type": "image/x-icon"
     },
-     {
+    {
       "src": "favicon-32x32.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
-    }, {
+    },
+    {
       "src": "favicon-64x64.ico",
       "sizes": "64x64",
       "type": "image/x-icon"
