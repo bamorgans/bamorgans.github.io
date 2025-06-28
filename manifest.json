@@ -1,9 +1,9 @@
 {
-  "short_name": "Lead Engineer",
-  "name": "Lead Engineer Portfolio",
+  "short_name": "Bob Morganstern",
+  "name": "Bob Morganstern's Portfolio",
   "icons": [
     {
-      "src": "apple-touch-icon.png",
+      "src": "/assets/apple-touch-icon.png",
       "sizes": "16x16",
       "type": "apple-touch-icon"
     },
@@ -14,22 +14,22 @@
       "purpose": "apple touch icon"
     },
     {
-      "src": "favicon-16.ico",
+      "src": "/assets/favicon-16.ico",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon-24x24.ico",
+      "src": "/assets/favicon-24x24.ico",
       "sizes": "24x24",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon-32x32.ico",
+      "src": "/assets/favicon-32x32.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon-64x64.ico",
+      "src": "/assets/favicon-64x64.ico",
       "sizes": "64x64",
       "type": "image/x-icon"
     }
