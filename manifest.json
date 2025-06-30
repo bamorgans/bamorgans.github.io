@@ -3,8 +3,8 @@
   "name": "Bob Morganstern's Portfolio",
   "icons": [
     {
-      "src": "/assets/apple-touch-icon.png",
-      "sizes": "16x16",
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "apple-touch-icon"
     },
     {
