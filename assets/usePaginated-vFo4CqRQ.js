@@ -1,0 +1,1 @@
+import{r as a}from"./index-2K57w0cd.js";function h(e,s=5){const[o,t]=a.useState(s),r=()=>t(n=>n+s),c=()=>t(s);return{visibleItems:e.slice(0,o),hasMore:o<e.length,showMore:r,showLess:c}}export{h as u};
