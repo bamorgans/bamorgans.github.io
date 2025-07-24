@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;html{scroll-behavior:smooth}body{@apply bg-page-light text-foreground-light;transition:background-color .3s ease,color .3s ease}body.dark{@apply bg-page-dark text-foreground-dark;}
