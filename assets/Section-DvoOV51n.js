@@ -1,1 +1,0 @@
-import{j as s}from"./index-kRaLe8l6.js";const o=({children:e,className:x="",title:t})=>s.jsx("section",{className:`py-16 md:py-24 bg-section-light dark:bg-section-dark ${x}`,children:s.jsxs("div",{className:"container mx-auto px-4 sm:px-6 lg:px-8",children:[t&&s.jsx("h2",{className:"text-3xl md:text-4xl font-bold mb-8",children:t}),e]})});export{o as S};
